@@ -250,3 +250,4 @@ F:\c-sharp Projects\BankTransations\BankTransations\bin\Debug\net8.0\runtimes\wi
 F:\c-sharp Projects\BankTransations\BankTransations\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 F:\c-sharp Projects\BankTransations\BankTransations\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 F:\c-sharp Projects\BankTransations\BankTransations\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\c-sharp Projects\BankTransations\BankTransations\obj\Debug\net8.0\BankTransations.sourcelink.json
